@@ -1,0 +1,17 @@
+C:\Users\Elliot\source\repos\TimeConversionForm\TimeConversionForm\bin\Debug\net6.0-windows\TimeConversionForm.exe
+C:\Users\Elliot\source\repos\TimeConversionForm\TimeConversionForm\bin\Debug\net6.0-windows\TimeConversionForm.deps.json
+C:\Users\Elliot\source\repos\TimeConversionForm\TimeConversionForm\bin\Debug\net6.0-windows\TimeConversionForm.runtimeconfig.json
+C:\Users\Elliot\source\repos\TimeConversionForm\TimeConversionForm\bin\Debug\net6.0-windows\TimeConversionForm.dll
+C:\Users\Elliot\source\repos\TimeConversionForm\TimeConversionForm\bin\Debug\net6.0-windows\TimeConversionForm.pdb
+C:\Users\Elliot\source\repos\TimeConversionForm\TimeConversionForm\obj\Debug\net6.0-windows\TimeConversionForm.csproj.AssemblyReference.cache
+C:\Users\Elliot\source\repos\TimeConversionForm\TimeConversionForm\obj\Debug\net6.0-windows\TimeConversionForm.Form1.resources
+C:\Users\Elliot\source\repos\TimeConversionForm\TimeConversionForm\obj\Debug\net6.0-windows\TimeConversionForm.csproj.GenerateResource.cache
+C:\Users\Elliot\source\repos\TimeConversionForm\TimeConversionForm\obj\Debug\net6.0-windows\TimeConversionForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elliot\source\repos\TimeConversionForm\TimeConversionForm\obj\Debug\net6.0-windows\TimeConversionForm.AssemblyInfoInputs.cache
+C:\Users\Elliot\source\repos\TimeConversionForm\TimeConversionForm\obj\Debug\net6.0-windows\TimeConversionForm.AssemblyInfo.cs
+C:\Users\Elliot\source\repos\TimeConversionForm\TimeConversionForm\obj\Debug\net6.0-windows\TimeConversionForm.csproj.CoreCompileInputs.cache
+C:\Users\Elliot\source\repos\TimeConversionForm\TimeConversionForm\obj\Debug\net6.0-windows\TimeConversionForm.dll
+C:\Users\Elliot\source\repos\TimeConversionForm\TimeConversionForm\obj\Debug\net6.0-windows\refint\TimeConversionForm.dll
+C:\Users\Elliot\source\repos\TimeConversionForm\TimeConversionForm\obj\Debug\net6.0-windows\TimeConversionForm.pdb
+C:\Users\Elliot\source\repos\TimeConversionForm\TimeConversionForm\obj\Debug\net6.0-windows\TimeConversionForm.genruntimeconfig.cache
+C:\Users\Elliot\source\repos\TimeConversionForm\TimeConversionForm\obj\Debug\net6.0-windows\ref\TimeConversionForm.dll
